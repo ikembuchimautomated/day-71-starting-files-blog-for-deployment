@@ -1,0 +1,12 @@
+Bootstrap_Flask==2.3.3
+Flask_CKEditor==0.5.1
+Flask_Login==0.6.3
+Flask-Gravatar==0.5.0
+Flask_WTF==1.2.1
+WTForms==3.0.1
+Werkzeug==3.0.0
+Flask==2.3.2
+flask_sqlalchemy==3.1.1
+SQLAlchemy==2.0.25
+gunicorn==21.2.0
+psycopg2-binary==2.9.9
