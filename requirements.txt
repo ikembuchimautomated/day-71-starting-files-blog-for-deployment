@@ -8,5 +8,5 @@ Werkzeug==3.0.0
 Flask==2.3.2
 flask_sqlalchemy==3.1.1
 SQLAlchemy==2.0.25
-gunicorn==21.2.0
+gunicorn==22.0.0
 psycopg2-binary==2.9.9
